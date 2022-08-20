@@ -1,2 +1,2 @@
 # Dad-Jokes
-He makes random "dad jokes" thanks to the API he got from here. "https://icanhazdadjoke.com/api"
+It's making a "dad joke" with the API I got from here. "https://icanhazdadjoke.com/api"
